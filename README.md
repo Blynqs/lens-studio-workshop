@@ -33,12 +33,17 @@ Start by adding "Head Binding" Effect on Camera
 
 ![image](https://user-images.githubusercontent.com/72021338/171462423-8eed0be0-c4de-4530-885a-7272c8c71175.png)
 
-### 4. Make a full body filter
+### 4. Make a filter by creating a 3D model
+Start by adding "Head Binding" Effect on Camera and adding a 3d model
+
+![image](https://user-images.githubusercontent.com/72021338/173105785-09641152-1053-4481-931d-a688015c2bc0.png)
+
+### 5. Make a full body filter
 Make a filter using corpo.obj (or any 3d body model)
 
 ![image](https://user-images.githubusercontent.com/72021338/171464118-aeba9dc8-7fb9-405b-a05e-c3e087f7a35d.png)
 
-### 5. Feel free to explore!
+### 6. Feel free to explore!
 Make a filter using corpo.obj (or any 3d body model)
 
 ## :tada: Congratulation !
